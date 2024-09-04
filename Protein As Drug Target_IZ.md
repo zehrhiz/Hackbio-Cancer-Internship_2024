@@ -1,4 +1,4 @@
-#**Drug Discovery and Proteins as Drug Targets**#
+#**Drug Discovery and Proteins as Drug Targets**
 
 ##**Introduction**
 
