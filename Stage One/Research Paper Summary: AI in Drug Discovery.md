@@ -1,6 +1,7 @@
+![image](https://github.com/user-attachments/assets/e7d04af0-df04-48ed-b3c2-115cf5e0a764)
 
-# Artificial Intelligence in Drug Discovery: Recent Advances and Future Perspectives 
-(J Jiménez-Luna)
+# [Artificial Intelligence in Drug Discovery: Recent Advances and Future Perspectives (J Jiménez-Luna, et al, 2021)](https://www.tandfonline.com/doi/full/10.1080/17460441.2021.1909567#d1e207) 
+
 
 The article reviewed the role of artificial intelligence in revamping the field of drug discovery and chemoinformatics. Addressed major obstacles and discussed future perspectives on the evolution of drug discovery with AI.
 It discussed ligand and structure-based drug modeling, denovo drug design, and automated chemical synthesis. Highlighted the advantages and constraints of deep learning in drug development.
