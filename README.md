@@ -1,5 +1,5 @@
-***Hackbio-Cancer-Internship_2024***
+#***Hackbio-Cancer-Internship_2024***
 
-Stage Zero: Task # 1
-
-Drug Discovery and Proteins as Drug Targets
+  ##Task: Stage Zero
+  
+###Topic: Drug Discovery and Proteins as Drug Targets
